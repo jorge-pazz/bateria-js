@@ -1,2 +1,2 @@
 # bateria-js
-Bateria eletrônica com JavaScript
+Bateria eletrônica com HTML, CSS e JavaScript
